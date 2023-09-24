@@ -1,0 +1,1 @@
+tup.update(['aryan',12,"udemy"])
